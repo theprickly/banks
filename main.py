@@ -18,7 +18,7 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-BOT_TOKEN = os.getenv("BOT_TOKEN", "YOUR_BOT_TOKEN_HERE")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "8769534921:AAGJqVc8qGMiidQxsXwjPgpLryPcjuAiQxY")
 DB_PATH = "game.db"
 
 # ---------------------------------------------------------------------------
